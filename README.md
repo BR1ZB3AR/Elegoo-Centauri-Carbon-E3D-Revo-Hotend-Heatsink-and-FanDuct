@@ -1,6 +1,6 @@
 Elegoo Centauri Carbon E3D Revo Hotend Heatsink + FanDuct
 It's a mods for easier to swap nozzle than original nozzle made by Elegoo.
-======================================================================================================
+_________________________________________________________________________________________________________
 Hardware Needed:
 1) E3D Revo HeaterCore | 1pcs
 - https://e3d-online.com/products/revo-heatercore?variant=41245338697787
@@ -19,7 +19,7 @@ Hardware Needed:
 4) ZH1.5-2P Connector | 1pcs
 - https://www.amazon.com/Connectors-Terminal-Compatible-Connector-Housing/dp/B0DL9SHVHS/ref=sr_1_6?crid=1IWIRFFMZE08X&dib=eyJ2IjoiMSJ9.kxIjgE-lprnYHI5Cwr30QeJms9HX3M1Dfq5f846LP5c2F6mU_duoZuvfvt3fD0UUERqgWqkCUiXtklggh8lhiUEE-ASJRZaA1Z0aCM-OerLyDyKyNUDpNiO_bC8cTzjiRthROKWlaaO8RzYZAuCN9dxMqxro1pVy-WchR_Xwv2Bo1pr-7IPyThnOr1t_dVqRo_ADCtaYJfpxvURedkCQXayk9w62pUkzrZGd8e0uBNz0CA8b0p9Y10DjHxde_tfcZNgxmj_NIXZhdhcTMDMEDIg0DuCDz1RmyXS5Whov3eM.fJm8j7AR1w-ZQRMlZFQTFdYERkLaSVOx01Up1mIda8I&dib_tag=se&keywords=ZH1.5-2P+Connector&qid=1749116411&sprefix=zh1.5-2p+connector%2Caps%2C300&sr=8-6
 
-======================================================================================================
+_________________________________________________________________________________________________________
 
 5) Send to https://www.pcbway.com or your local CNC service to fabricate the Hotend Heatsink | 1pcs
     - Material: Aluminium 6061
