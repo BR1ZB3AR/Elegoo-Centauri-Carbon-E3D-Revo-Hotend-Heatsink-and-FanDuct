@@ -1,4 +1,5 @@
 Elegoo Centauri Carbon E3D Revo Hotend Heatsink + FanDuct
+
 https://www.printables.com/model/1296069-elegoo-centauri-carbon-e3d-revo-hotend-heatsink-fa
 
 It's a mods for easier to swap nozzle than original nozzle made by Elegoo.
