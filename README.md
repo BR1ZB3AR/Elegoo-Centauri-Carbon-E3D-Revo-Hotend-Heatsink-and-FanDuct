@@ -1,4 +1,5 @@
 Elegoo Centauri Carbon E3D Revo Hotend Heatsink + FanDuct
+
 It's a mods for easier to swap nozzle than original nozzle made by Elegoo.
 _________________________________________________________________________________________________________
 Hardware Needed:
